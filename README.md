@@ -35,6 +35,12 @@ Student: Hifza successfully cloned the repo
 
 Student Oscar successfully cloned the repo.
 
+
+git pull https://github.com/frank13579-ark/FINM3422.git
+
+git push
+
+
 Oscar successfully cloned the repo
 read me
 
